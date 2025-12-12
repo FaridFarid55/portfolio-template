@@ -96,7 +96,6 @@ testimonials: {
                       "My approach blends strong technical architecture with a deep understanding of user experience — transforming complex ideas into seamless, functional solutions. I work mainly with modern technologies like ASP.NET Core.",
                       "Beyond coding, I enjoy exploring new technologies, optimizing performance, and continuously learning to deliver better, smarter products.",
                       "I aim to build meaningful software that solves real problems and creates a lasting impact.",
-,
       ],
     },
     education: [
